@@ -1,8 +1,7 @@
 # This config is based on lightline.vim <https://github.com/itchyny/lightline.vim/blob/master/.travis.yml>
 
 language: ruby
-rvm:
-    - 2.0.0
+
 install:
     - git clone https://github.com/kana/vim-vspec.git
 before_script:
